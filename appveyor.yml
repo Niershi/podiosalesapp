@@ -2,7 +2,7 @@ build: false
 
 environment:
   matrix:
-    - PYTHON: "C:\Users\Nils\AppData\Local\Programs\Python\Python36"
+    - PYTHON: "C:\\Users\\Nils\\AppData\\Local\\Programs\\Python\\Python36"
       PYTHON_VERSION: "3.6"
       PYTHON_ARCH: "36"
 
